@@ -1,0 +1,8 @@
+{
+  "name": "selo",
+  "private": true,
+  "scripts": {
+    "dev:web": "pnpm --filter @selo/web dev",
+    "build:web": "pnpm --filter @selo/web build"
+  }
+}
